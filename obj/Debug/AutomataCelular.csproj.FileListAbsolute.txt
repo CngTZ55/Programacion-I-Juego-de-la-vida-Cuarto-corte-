@@ -1,0 +1,20 @@
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.exe.config
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.exe
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.pdb
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.Form1.resources
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.Properties.Resources.resources
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csproj.GenerateResource.Cache
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.exe
+C:\Users\Bioxor\source\repos\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.pdb
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.exe.config
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.exe
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\bin\Debug\AutomataCelular.pdb
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.Form1.resources
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.exe
+C:\Users\Usuario\Desktop\Trabajos Unitec\Trimestre II\Programación I\Actividades\Actividad 4\Código de ejemplo\AutomataCelular\AutomataCelular\obj\Debug\AutomataCelular.pdb
